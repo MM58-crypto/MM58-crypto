@@ -4,7 +4,19 @@
 
 **Software engineer with 2+ years of experience, building AI-powered tools.**
 
-My main languages are **Python, C++, and JavaScript**, backed by solid **SQL** experience. I also enjoy experimenting with languages that catch my interest.
+## Favorite tech
+
+**Languages**
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" alt="Python" width="40" height="40"><br>Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"><br>C++ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"><br>JavaScript | <img src="https://cdn.jsdelivr.net/gh/vscode-icons/vscode-icons@v12.15.0/icons/file_type_sql.svg" alt="SQL" width="40" height="40"><br>SQL |
+| :---: | :---: | :---: | :---: |
+
+I also enjoy experimenting with languages that catch my interest.
+
+**Tools**
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vscodium/vscodium-original.svg" alt="VSCodium" width="40" height="40"><br>VSCodium | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"><br>Vim | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"><br>Docker | <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Bash-Dark.svg" alt="Bash" width="40" height="40"><br>Bash | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"><br>Node.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"><br>FastAPI |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 
 ## What I'm building
 

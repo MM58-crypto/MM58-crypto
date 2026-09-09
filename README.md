@@ -1,4 +1,4 @@
-![A blue-armored pixel robot giving a thumbs-up beside a companion drone at MM58's sci-fi dev station.](assets/dev-station.svg)
+![A blue-armored pixel robot.](assets/dev-station.svg)
 
 # Hi, I'm MM58
 

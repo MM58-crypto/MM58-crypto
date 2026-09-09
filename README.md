@@ -38,7 +38,7 @@ Project details aren't public yet.
 
 Interested in **software engineering and AI engineering roles**, as well as **data engineering opportunities where I can grow**. Fellow developers: happy to connect over projects and shared interests.
 
-[Email](mailto: mohammed.magdi999@gmail.com) · [Telegram @mm580](https://t.me/mm580)
+[Email](mailto:mohammed.magdi999@gmail.com) · [Telegram @mm580](https://t.me/mm580)
 
 ---
 

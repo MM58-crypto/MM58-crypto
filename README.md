@@ -1,6 +1,6 @@
 ![A blue-armored pixel robot.](assets/dev-station.svg)
 
-# Hi, I'm MM58
+# Well met, dear reader — allow me to introduce myself as MM58.
 
 **Software engineer with 2+ years of experience, building AI-powered tools.**
 

@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320" role="img" aria-labelledby="title desc">
+  <title id="title">MM58's pixel-art dev station</title>
+  <desc id="desc">A blue-armored sci-fi robot gives a thumbs-up beside a floating companion drone and a terminal reading Code. Build. Explore. A dark circuit-board background completes the scene.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#162738" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Static, self-contained artwork: no scripts, fonts, or external images. -->
+  <rect width="960" height="320" rx="12" fill="#0b1420"/>
+  <rect x="1" y="1" width="958" height="318" rx="11" fill="url(#grid)" stroke="#253d50"/>
+  <path d="M24 53H936M24 276H526" fill="none" stroke="#253d50"/>
+  <g font-family="ui-monospace, 'DejaVu Sans Mono', Consolas, monospace">
+    <text x="32" y="34" fill="#a5bacb" font-size="12" letter-spacing="2">MM58 / DEV STATION</text>
+    <text x="928" y="34" text-anchor="end" fill="#6ce5c0" font-size="11" letter-spacing="1.5">SYSTEM ONLINE</text>
+    <text x="48" y="112" fill="#edf6fc" font-size="38" font-weight="700" letter-spacing="-1">CODE. BUILD.</text>
+    <text x="48" y="156" fill="#64d9f4" font-size="38" font-weight="700" letter-spacing="-1">EXPLORE.</text>
+    <text x="49" y="188" fill="#95adbf" font-size="12" letter-spacing="1">PYTHON / C++ / JAVASCRIPT / SQL</text>
+  </g>
+
+  <!-- Terminal prompt and small hardware indicators. -->
+  <path d="M48 209H431V253H48Z" fill="#101f2c" stroke="#2b475b"/>
+  <path d="M49 210H52V252H49Z" fill="#64d9f4"/>
+  <g font-family="ui-monospace, 'DejaVu Sans Mono', Consolas, monospace" font-size="13">
+    <text x="66" y="236" fill="#6ce5c0">&gt;</text>
+    <text x="86" y="236" fill="#d3e4ef">software + AI</text>
+  </g>
+  <rect x="206" y="225" width="8" height="14" fill="#64d9f4"/>
+  <g fill="#305066">
+    <rect x="374" y="228" width="6" height="6"/>
+    <rect x="386" y="228" width="6" height="6"/>
+  </g>
+  <rect x="398" y="228" width="6" height="6" fill="#6ce5c0"/>
+  <g font-family="ui-monospace, 'DejaVu Sans Mono', Consolas, monospace" font-size="10" letter-spacing="1.5" fill="#809caf">
+    <text x="48" y="297">LESS BUSYWORK. MORE BUILDING.</text>
+    <text x="927" y="297" text-anchor="end">PLAYER 01 / READY</text>
+  </g>
+
+  <!-- Sparse circuit traces, HUD corners, and pixel stars. -->
+  <g fill="none" stroke="#26475c" stroke-width="2" shape-rendering="crispEdges">
+    <path d="M459 99H490L514 75H566M449 254H496L524 226H578M896 104H924V150H944M906 216H938V254"/>
+    <path d="M629 96V77H653M880 77H899V96M629 246V262H651M878 262H899V244" stroke="#37637a"/>
+  </g>
+  <g fill="#4b839b" shape-rendering="crispEdges">
+    <rect x="563" y="72" width="6" height="6"/>
+    <rect x="575" y="223" width="6" height="6"/>
+    <rect x="920" y="148" width="8" height="4"/>
+    <path d="M592 106H596V110H600V114H596V118H592V114H588V110H592Z"/>
+    <rect x="864" y="122" width="4" height="4"/>
+    <rect x="603" y="211" width="4" height="4"/>
+    <rect x="907" y="184" width="4" height="4"/>
+  </g>
+  <path d="M660 279H860L881 288H638Z" fill="#122b3a"/>
+  <path d="M638 288H881" fill="none" stroke="#28576d" stroke-width="2"/>
+
+  <!-- Companion drone, drawn on a 3px grid. -->
+  <g transform="translate(490 133) scale(3)" shape-rendering="crispEdges">
+    <path d="M8 1H11V5H8ZM5 5H15V7H18V17H15V20H5V17H2V7H5Z" fill="#07101b"/>
+    <path d="M6 6H14V8H16V15H14V17H6V15H4V8H6Z" fill="#4384a3"/>
+    <path d="M6 6H14V8H6ZM4 8H6V13H4Z" fill="#b1eff4"/>
+    <path d="M6 9H14V14H6Z" fill="#102d46"/>
+    <path d="M7 10H9V12H7ZM11 10H13V12H11Z" fill="#6ce5c0"/>
+    <path d="M8 15H12V17H8Z" fill="#d5edf3"/>
+    <path d="M0 10H3V14H0ZM17 10H20V14H17Z" fill="#6ad5e6"/>
+    <path d="M8 19H12V22H8Z" fill="#3f93c1"/>
+    <path d="M9 21H11V25H9Z" fill="#6ce5c0"/>
+    <path d="M7 28H13V29H7Z" fill="#29556b"/>
+    <rect x="8" y="1" width="3" height="2" fill="#6ce5c0"/>
+  </g>
+
+  <!-- Original blue-armored robot. Each unit is one 4px pixel. -->
+  <g transform="translate(630 34) scale(4)" shape-rendering="crispEdges">
+    <!-- Rear arm and lowered gauntlet. -->
+    <path d="M18 29H23V33H21V39H19V45H13V42H12V36H14V32H18Z" fill="#050e19"/>
+    <path d="M16 33H21V36H19V41H14V36H16Z" fill="#2166b4"/>
+    <path d="M14 36H17V41H14Z" fill="#55b9ed"/>
+    <path d="M13 41H20V47H18V49H13V47H12V43H13Z" fill="#050e19"/>
+    <path d="M14 42H19V46H17V47H14Z" fill="#b8dbe9"/>
+    <path d="M14 42H19V44H14Z" fill="#edf8fc"/>
+    <path d="M17 45H19V47H17Z" fill="#668da9"/>
+
+    <!-- Split stance, armored shins and oversized boots. -->
+    <path d="M23 40H40V47H38V50H40V57H43V61H42V63H31V60H30V51H28V56H27V60H26V63H13V60H15V57H18V49H20V44H23Z" fill="#050e19"/>
+    <path d="M24 43H29V49H26V53H21V49H23Z" fill="#b8dbe9"/>
+    <path d="M31 43H37V48H35V51H31Z" fill="#80a4bd"/>
+    <path d="M24 43H29V46H24ZM31 43H37V45H31Z" fill="#edf8fc"/>
+    <path d="M20 50H26V56H24V60H16V59H19V54H20Z" fill="#267dd0"/>
+    <path d="M20 51H23V56H21V59H18V57H20Z" fill="#64d9f4"/>
+    <path d="M16 60H25V61H16Z" fill="#153f84"/>
+    <path d="M31 50H37V56H39V58H41V61H32V58H31Z" fill="#2166b4"/>
+    <path d="M32 50H35V56H37V58H33V56H32Z" fill="#55b9ed"/>
+    <path d="M33 59H40V60H33Z" fill="#3d99dc"/>
+    <path d="M21 49H27V52H21ZM31 48H37V51H31Z" fill="#163e77"/>
+    <path d="M22 49H26V50H22ZM32 48H36V49H32Z" fill="#64d9f4"/>
+
+    <!-- Torso, shoulder plates, and illuminated reactor. -->
+    <path d="M22 25H37V27H41V30H43V35H39V40H37V44H23V41H20V35H16V29H19V27H22Z" fill="#050e19"/>
+    <path d="M23 27H36V29H39V34H36V39H24V36H22V31H23Z" fill="#267dd0"/>
+    <path d="M23 28H27V31H34V28H37V34H34V37H27V35H24Z" fill="#55b9ed"/>
+    <path d="M26 29H34V31H32V33H28V31H26Z" fill="#d6f4f7"/>
+    <path d="M28 32H32V36H28Z" fill="#071827"/>
+    <path d="M29 32H32V35H29Z" fill="#6ce5c0"/>
+    <rect x="29" y="32" width="2" height="1" fill="#e2fff2"/>
+    <path d="M25 38H36V42H25Z" fill="#14335e"/>
+    <path d="M25 38H36V39H25ZM27 41H34V42H27Z" fill="#527f9f"/>
+    <path d="M18 29H23V34H17V31H18Z" fill="#55b9ed"/>
+    <path d="M18 29H23V31H18Z" fill="#b7edf7"/>
+    <path d="M37 28H40V30H42V34H37Z" fill="#267dd0"/>
+    <path d="M37 28H40V30H41V31H37Z" fill="#64d9f4"/>
+
+    <!-- Bent raised arm: a dark elbow and blue forearm. -->
+    <path d="M40 33H44V36H47V34H53V40H50V43H43V41H40V39H38V35H40Z" fill="#050e19"/>
+    <path d="M41 34H43V38H47V36H51V40H49V41H44V39H41Z" fill="#80a4bd"/>
+    <path d="M45 36H48V33H53V38H51V40H46V39H45Z" fill="#267dd0"/>
+    <path d="M46 36H49V34H52V36H50V38H47V39H46Z" fill="#64d9f4"/>
+
+    <!-- Helmet silhouette and cyan center crest. -->
+    <path d="M25 6H34V8H38V11H40V22H38V26H35V28H24V26H21V22H19V14H21V10H25Z" fill="#050e19"/>
+    <path d="M25 8H33V10H37V13H38V19H35V16H24V20H21V14H23V11H25Z" fill="#267dd0"/>
+    <path d="M25 8H28V10H25V13H23V18H21V14H23V11H25Z" fill="#64d9f4"/>
+    <path d="M28 7H32V14H28Z" fill="#90e8f7"/>
+    <path d="M29 8H31V12H29Z" fill="#d6f4f7"/>
+    <path d="M29 13H32V15H29Z" fill="#6ce5c0"/>
+    <path d="M34 11H36V14H38V19H35V16H33V14H34Z" fill="#174c94"/>
+    <!-- Recessed faceplate and bright, friendly visor. -->
+    <path d="M25 16H34V18H36V22H34V25H25V23H23V19H25Z" fill="#b8dbe9"/>
+    <path d="M25 16H34V18H35V21H24V18H25Z" fill="#102d46"/>
+    <path d="M25 18H28V19H25ZM31 18H34V19H31Z" fill="#6ce5c0"/>
+    <path d="M25 21H34V23H32V25H27V24H25Z" fill="#edf8fc"/>
+    <path d="M29 23H32V24H29Z" fill="#668da9"/>
+    <path d="M21 18H24V24H26V26H23V24H21Z" fill="#2166b4"/>
+    <path d="M35 19H38V23H36V26H33V25H35Z" fill="#174c94"/>
+    <path d="M20 16H23V21H20Z" fill="#55b9ed"/>
+    <rect x="20" y="17" width="2" height="3" fill="#b7edf7"/>
+
+    <!-- Thumbs-up gauntlet: raised thumb, stacked fingers, cuff. -->
+    <path d="M49 18H53V20H54V26H59V28H61V35H59V37H55V39H48V37H46V29H47V25H48V20H49Z" fill="#050e19"/>
+    <path d="M49 21H50V19H52V21H53V28H58V29H59V34H57V36H54V37H49V35H48V29H49Z" fill="#b8dbe9"/>
+    <path d="M50 20H52V27H50ZM49 28H53V30H49ZM49 30H51V34H49Z" fill="#edf8fc"/>
+    <path d="M54 29H59V30H54ZM54 32H59V33H54ZM53 35H57V36H53Z" fill="#668da9"/>
+    <path d="M58 30H59V32H58ZM57 33H59V34H57Z" fill="#80a4bd"/>
+    <path d="M48 36H54V39H48Z" fill="#2166b4"/>
+    <path d="M49 36H54V37H49Z" fill="#64d9f4"/>
+    <!-- Two little approval sparks. -->
+    <path d="M57 18H59V20H57ZM61 23H63V25H61Z" fill="#6ce5c0"/>
+  </g>
+</svg>

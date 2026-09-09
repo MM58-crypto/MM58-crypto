@@ -1,6 +1,6 @@
 ![A blue-armored pixel robot.](assets/dev-station.svg)
 
-# Well met, dear reader — allow me to introduce myself as MM58.
+# Well met, dear reader — allow me to introduce myself as MM58. 👋
 
 **Software engineer with 2+ years of experience, building AI-powered tools.**
 
@@ -29,7 +29,7 @@ I've implemented end-to-end **retrieval-augmented generation (RAG)** pipelines a
 
 Project details aren't public yet.
 
-## What I'm exploring
+## What I'm exploring 🔎
 
 - **Data engineering & ETL pipelines** — building on my SQL experience; actively learning this field.
 - **Arabic NLP** — exploring machine learning applications for Arabic through a project currently in progress.
@@ -38,8 +38,8 @@ Project details aren't public yet.
 
 Interested in **software engineering and AI engineering roles**, as well as **data engineering opportunities where I can grow**. Fellow developers: happy to connect over projects and shared interests.
 
-[Email](mailto:someone@example.com) · [Telegram @someone57](https://t.me/someone57)
+[Email](mailto: mohammed.magdi999@gmail.com) · [Telegram @mm580](https://t.me/mm580)
 
 ---
 
-*I use Arch, btw.*
+*I use Arch, btw!*

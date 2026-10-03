@@ -2,7 +2,7 @@
 
 # Well met, dear reader — allow me to introduce myself as MM58. 👋
 
-**Software engineer with 2+ years of experience, building AI-powered tools.**
+**Software engineer with 2+ years of experience **
 
 ## Favorite tech
 
@@ -48,7 +48,7 @@ Project details aren't public yet.
 
 ## Let's connect
 
-Interested in **software engineering and AI engineering roles**, as well as **data engineering opportunities where I can grow**. Fellow developers: happy to connect over projects and shared interests.
+Interested in **software engineering and Data engineering roles**. Fellow developers: happy to connect over projects and shared interests.
 
 [Email](mailto:mohammed.magdi999@gmail.com) · [Telegram @mm580](https://t.me/mm580)
 

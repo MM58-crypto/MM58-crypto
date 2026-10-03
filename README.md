@@ -2,7 +2,7 @@
 
 # Well met, dear reader — allow me to introduce myself as MM58. 👋
 
-**Software engineer with 2+ years of experience **
+**Software engineer with 2+ years of experience, building AI-powered applications**
 
 ## Favorite tech
 

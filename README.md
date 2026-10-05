@@ -18,19 +18,6 @@ I also enjoy experimenting with languages that catch my interest.
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vscodium/vscodium-original.svg" alt="VSCodium" width="40" height="40"><br>VSCodium | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"><br>Vim | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"><br>Docker | <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Bash-Dark.svg" alt="Bash" width="40" height="40"><br>Bash | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"><br>Node.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"><br>FastAPI |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
-## What I'm building
-
-### [JAVE](https://github.com/MM58-crypto/J.A.V.E) — less job-search busywork
-
-A job-search assistant with two main workflows:
-
-- **Scout** finds relevant, recently posted jobs based on a user-entered role.
-- **Applier / Agent** automates much of the LinkedIn Easy Apply workflow using user-supplied JSON profiles, with user review and approval before submission.
-
-### [poly-mastery](https://github.com/MM58-crypto/poly-mastery) — prove it by building
-
-A university-like platform for building technical competency across domains. Progress comes from observable work and demonstrated understanding—not just completing content.
-
 ## Experience beyond the public repos
 
 I've implemented end-to-end **retrieval-augmented generation (RAG)** pipelines across multiple projects, covering:
